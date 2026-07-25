@@ -1,4 +1,8 @@
-\# Hi there, I'm Liaa 👋
+\# Hi, I'm Liaa 👋
+
+
+
+A passionate learner exploring the world of software development.
 
 
 
@@ -6,29 +10,37 @@
 
 
 
-\### GitHub Stats
+\### 👨‍💻 About Me
 
+\- 🔭 Currently learning: \*\*Web Development\*\*
 
+\- 🌱 Exploring: \*\*JavaScript \& Python\*\*
 
-<p align="center">
+\- 💬 Ask me about: \*\*HTML, CSS, Basic JS\*\*
 
-&#x20; <img src="https://github-readme-stats.vercel.app/api?username=USERNAME\\\_KAMU\\\&show\\\_icons=true\\\&theme=radical\\\&count\\\_private=true" alt="GitHub Stats" width="48%" />
-
-&#x20; <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=USERNAME\\\_KAMU\\\&layout=compact\\\&theme=radical" alt="Top Languages" width="48%" />
-
-</p>
-
-
-
-<p align="center">
-
-&#x20; <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME\\\_KAMU\\\&theme=radical" alt="GitHub Streak" />
-
-</p>
+\- 📫 How to reach me: \*\*yohaninatalia@gmail.com\*\*
 
 
 
 \---
 
 
+
+\### 🛠️ Languages \& Tools
+
+\- \*\*Languages:\*\* HTML5, CSS3, JavaScript, Python
+
+\- \*\*Tools:\*\* Git, VS Code, GitHub
+
+
+
+\---
+
+
+
+\### 🌐 Connect with Me
+
+\- \*\*LinkedIn:\*\* \[linkedin.com/in/username](https://linkedin.com/yohani-natalia-simanulang)
+
+\- \*\*Instagram:\*\* \[@username](https://instagram.com/\_yohanintalia)
 
